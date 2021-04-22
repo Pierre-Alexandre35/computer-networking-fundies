@@ -1,6 +1,6 @@
 # Computer Networking Fundamentals 
 
-Slides and practice labs for a networking tutorial I made with Handrien Daures in March 2021. 
+Slides and practice labs for a networking tutorial I made with Hadrien Daures in March 2021. 
 
 
 ## Purpose 
